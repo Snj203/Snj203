@@ -1,15 +1,21 @@
 # 👋 Hi, I'm Sanjar!
 
-💻 I'm a Java Developer and tech enthusiast passionate about backend, Spring, and system design.  
-🌱 Currently learning: Kafka, Docker, and microservices.  
-🚀 Projects: Check out my latest work below!
+###
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+there;Looking+for+conquest;Java+Go+Go!&speed=45)](https://git.io/typing-svg)
+
+###
+
+💻 Ask me about Spring, Java, or anything related to **backend** development!  
+💻 Learning: **Spring Java**.  
+💻 **Reach me** **snjmbj099@gmail.com**
 
 ---
 <div align="left">
 
   <h3>🧰 Languages & Tools</h3>
 
-  <!-- 🛠️ Shields (бейджи) -->
+  <!-- 🛠️ Shields -->
   <p>
     <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
