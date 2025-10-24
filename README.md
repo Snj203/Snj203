@@ -25,9 +25,6 @@
 
 ### 📊 GitHub Stats
 <div align="left">
-
-  <h3>📊 GitHub Stats</h3>
-
   <img
     src="https://github-readme-stats.vercel.app/api?username=Snj203&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&custom_title=See%20how%20I%20look"
     height="190"
@@ -39,10 +36,7 @@
     height="190"
     alt="Top Languages graph"
   />
-
 </div>
-
----
 
 ### 🌐 Connect with me
 <div align="left">
@@ -55,15 +49,11 @@
   <a href="mailto:snjmbj099@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
 </a>
-  
 </div>
-
----
 
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/alexandermokeichuk/alexandermokeichuk/output/snake.svg" alt="Snake animation" />
 
 ###
