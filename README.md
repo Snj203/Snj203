@@ -26,7 +26,8 @@
 ### 📊 GitHub Stats
 <div align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Snj203&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&custom_title=See%20how%20I%20look"
+    src="https://github-readme-stats.vercel.app/api?username=Snj203&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true
+    &token=${{ secrets.GTFRF }}&custom_title=See%20how%20I%20look"
     height="190"
     alt="GitHub Stats graph"
   />
